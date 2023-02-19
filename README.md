@@ -2,4 +2,4 @@
 
 > Status: developing
 
-pandas training project with some example codes
+pandas training project with some example codes.
